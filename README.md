@@ -41,6 +41,9 @@ Abaixo seguem os links da cada vídeo da série realizados até o momento *(atua
 | **[Cloud Computing & Serverless - Video 02](https://youtu.be/RmMu8Ky-dxw)** | O que é Computação em Nuvem |
 | **[Cloud Computing & Serverless - Video 03](https://youtu.be/-EvV2k8XWMk)** | Quais os Benefícios da Computação em Nuvem? |
 | **[Cloud Computing & Serverless - Video 04](https://youtu.be/oPNrKdG_pQY)** | Tipos de Computação em Nuvem |
+| **[Cloud Computing & Serverless - Video 05](https://youtu.be/cMjUS2ouQxs)** | O que é Nuvem Privada? |
+| **[Cloud Computing & Serverless - Video 06](https://youtu.be/kWNyRjEXETQ)** | O que é Nuvem Pública? |
+| **[Cloud Computing & Serverless - Video 07](https://youtu.be/zieoHtu6IwQ)** | O que é Nuvem Híbrida? |
 | **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |

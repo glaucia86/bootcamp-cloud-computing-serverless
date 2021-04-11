@@ -17,7 +17,6 @@ Espero que esse treinamento seja de ajuda para toda a Comunidade que deseja ente
 
 * **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-24150-gllemos)**
 * **[Node.js](https://nodejs.org/en/)**
-* **[Vue.js](https://vuejs.org/)**
 * **[Postman](https://www.getpostman.com/)**
 * **[MongoDB](https://www.mongodb.com/try/download/community)**
 * **[MongoDB Compass](https://www.mongodb.com/products/compass)**
@@ -84,19 +83,16 @@ Abaixo seguem os links da cada vídeo da série realizados até o momento *(atua
 
 ## ❗️ Links & Recursos Importantes
 
-
-
-- ✅ **[]()**
-- ✅ **[]()**
-- ✅ **[]()**
-- ✅ **[]()**
-- ✅ **[]()**
-- ✅ **[]()**
-- ✅ **[]()**
-
+- ✅ **[Documentação Oficial - Azure](https://docs.microsoft.com/azure/?product=featured&WT.mc_id=javascript-24150-gllemos)**
+- ✅ **[Curso Grátis: Microsoft Learn - Azure & Cloud Computing](https://docs.microsoft.com/learn/modules/intro-to-azure-fundamentals/?WT.mc_id=javascript-24150-gllemos)**
+- ✅ **[Curso Grátis: Microsoft Learn - Static Web Apps](https://docs.microsoft.com/learn/paths/azure-static-web-apps/?WT.mc_id=javascript-24150-gllemos)**
+- ✅ **[Curso Grátis: Microsoft Learn - GitHub Actions](https://docs.microsoft.com/learn/browse/?terms=actions&WT.mc_id=javascript-24150-gllemos)**
+- ✅ **[Curso Grátis: Microsoft Learn - Azure Functions](https://docs.microsoft.com/learn/paths/create-serverless-applications/?WT.mc_id=javascript-24150-gllemos)**
+- ✅ **[Curso Grátis: Microsoft Learn - Node.Js](https://docs.microsoft.com/learn/paths/build-javascript-applications-nodejs/?WT.mc_id=javascript-24150-gllemos)**
+- ✅ **[Curso Grátis: Microsoft Learn - Vue.Js](https://docs.microsoft.com/learn/paths/vue-first-steps/?WT.mc_id=javascript-24150-gllemos)**
 
 ## ❓ Tenho Dúvidas... O que Faço?! 
 
-Caso tenham dúvidas aos códigos desenvolvidos durante a série de vídeos, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/jwt-node-vue/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
+Caso tenham dúvidas aos códigos desenvolvidos durante a série de vídeos, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/bootcamp-cloud-computing-serverless/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
 **(documentação em desenvolvimento)**

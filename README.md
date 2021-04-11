@@ -49,6 +49,12 @@ Abaixo seguem os links da cada vídeo da série realizados até o momento *(atua
 | **[Cloud Computing & Serverless - Video 10](https://youtu.be/N6Bs_NDdPag)** | Quais são os Cenários de Negócios no IaaS? |
 | **[Cloud Computing & Serverless - Video 11](https://youtu.be/Gy-yg0MTwH8)** | Quais são as vantagens do IaaS? |
 | **[Cloud Computing & Serverless - Video 12](https://youtu.be/CuwAE76OpAM)** | O que é PaaS (Plataforma como Serviço) |
+| **[Cloud Computing & Serverless - Video 13](https://youtu.be/IQUgvRqJJ68)** | Quais são os Cenários de Negócio com PaaS? |
+| **[Cloud Computing & Serverless - Video 14](https://youtu.be/Q1pnZCaujXc)** | Quais são as vantagens do PaaS?|
+| **[EM BREVE]()** | Vídeo EM BREVE |
+| **[EM BREVE]()** | Vídeo EM BREVE |
+| **[EM BREVE]()** | Vídeo EM BREVE |
+| **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |

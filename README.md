@@ -37,7 +37,7 @@ Abaixo seguem os links da cada vídeo da série realizados até o momento *(atua
 
 | Vídeo Aula | Descrição |
 |---|---|
-| **[EM BREVE]()** | Vídeo EM BREVE |
+| **[Cloud Computing & Serverless - [Módulo 01] Overview: Video 01](https://youtu.be/3LvmXfg-1TM)** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |

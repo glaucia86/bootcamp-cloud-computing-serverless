@@ -44,6 +44,12 @@ Abaixo seguem os links da cada vídeo da série realizados até o momento *(atua
 | **[Cloud Computing & Serverless - Video 05](https://youtu.be/cMjUS2ouQxs)** | O que é Nuvem Privada? |
 | **[Cloud Computing & Serverless - Video 06](https://youtu.be/kWNyRjEXETQ)** | O que é Nuvem Pública? |
 | **[Cloud Computing & Serverless - Video 07](https://youtu.be/zieoHtu6IwQ)** | O que é Nuvem Híbrida? |
+| **[Cloud Computing & Serverless - Video 08](https://youtu.be/IlLLeLvhV3k)** | Tipos de Serviços de Computação em Nuvem |
+| **[Cloud Computing & Serverless - Video 09](https://youtu.be/4huqXUCK4SE)** | O que é IaaS? |
+| **[Cloud Computing & Serverless - Video 10](https://youtu.be/N6Bs_NDdPag)** | Quais são os Cenários de Negócios no IaaS? |
+| **[EM BREVE]()** | Vídeo EM BREVE |
+| **[EM BREVE]()** | Vídeo EM BREVE |
+| **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |

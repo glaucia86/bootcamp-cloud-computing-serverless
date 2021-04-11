@@ -80,6 +80,7 @@ Abaixo seguem os links da cada vídeo da série realizados até o momento *(atua
 | **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |
+| **[EM BREVE]()** | Vídeo EM BREVE |
 
 ## ❗️ Links & Recursos Importantes
 

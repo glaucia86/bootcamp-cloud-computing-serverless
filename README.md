@@ -37,10 +37,10 @@ Abaixo seguem os links da cada vídeo da série realizados até o momento *(atua
 
 | Vídeo Aula | Descrição |
 |---|---|
-| **[Cloud Computing & Serverless - [Módulo 01] Overview: Video 01](https://youtu.be/3LvmXfg-1TM)** | Vídeo EM BREVE |
-| **[EM BREVE]()** | Vídeo EM BREVE |
-| **[EM BREVE]()** | Vídeo EM BREVE |
-| **[EM BREVE]()** | Vídeo EM BREVE |
+| **[Cloud Computing & Serverless - Video 01](https://youtu.be/3LvmXfg-1TM)** | Overview do Módulo 01  |
+| **[Cloud Computing & Serverless - Video 02](https://youtu.be/RmMu8Ky-dxw)** | O que é Computação em Nuvem |
+| **[Cloud Computing & Serverless - Video 03](https://youtu.be/-EvV2k8XWMk)** | Quais os Benefícios da Computação em Nuvem? |
+| **[Cloud Computing & Serverless - Video 04](https://youtu.be/oPNrKdG_pQY)** | Tipos de Computação em Nuvem |
 | **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |
 | **[EM BREVE]()** | Vídeo EM BREVE |

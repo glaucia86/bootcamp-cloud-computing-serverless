@@ -51,14 +51,14 @@ Abaixo seguem os links da cada vídeo da série realizados até o momento *(atua
 | **[Cloud Computing & Serverless - Video 12](https://youtu.be/CuwAE76OpAM)** | O que é PaaS (Plataforma como Serviço) |
 | **[Cloud Computing & Serverless - Video 13](https://youtu.be/IQUgvRqJJ68)** | Quais são os Cenários de Negócio com PaaS? |
 | **[Cloud Computing & Serverless - Video 14](https://youtu.be/Q1pnZCaujXc)** | Quais são as vantagens do PaaS?|
-| **[EM BREVE]()** | Vídeo EM BREVE |
-| **[EM BREVE]()** | Vídeo EM BREVE |
-| **[EM BREVE]()** | Vídeo EM BREVE |
-| **[EM BREVE]()** | Vídeo EM BREVE |
-| **[EM BREVE]()** | Vídeo EM BREVE |
-| **[EM BREVE]()** | Vídeo EM BREVE |
-| **[EM BREVE]()** | Vídeo EM BREVE |
-| **[EM BREVE]()** | Vídeo EM BREVE |
+| **[Cloud Computing & Serverless - Video 15](https://youtu.be/VghTb-OYHJM)** | O que é Computação sem Servidor? |
+| **[Cloud Computing & Serverless - Video 16](https://youtu.be/yzu4uVu4Nu0)** | Quais são os benefícios da Computação sem Servidor? |
+| **[Cloud Computing & Serverless - Video 17](https://youtu.be/Aa6ghT2A6bY)** | Padrões da Computação sem Servidor |
+| **[Cloud Computing & Serverless - Video 18](https://youtu.be/fTnUvBPHh8g)** | O que é SaaS? |
+| **[Cloud Computing & Serverless - Video 19](https://youtu.be/L6n-WT9dQk0)** | Quais são os Cenários Comuns do serviço do SaaS? |
+| **[Cloud Computing & Serverless - Video 20](https://youtu.be/5G0uN72TVNU)** | Quais são as vantagens do serviço do SaaS? |
+| **[Cloud Computing & Serverless - Video 21](https://youtu.be/38Swj6abGzY)** | Computação em nuvem em Todo Lugar |
+| **[Cloud Computing & Serverless - Video 22](https://youtu.be/PUci_SHUtlA)** | Resumo e Recursos Importantes - Módulo 1 |
 
 ### **Módulo 02 - Fundamentos do Azure**
 

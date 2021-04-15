@@ -109,6 +109,6 @@ Abaixo seguem os links da cada vídeo da série realizados até o momento *(atua
 
 ## ❓ Tenho Dúvidas... O que Faço?! 
 
-Caso tenham dúvidas aos códigos desenvolvidos durante a série de vídeos, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/bootcamp-cloud-computing-serverless/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
+Caso tenham dúvidas aos códigos desenvolvidos durante essa série de vídeos, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/glaucia86/bootcamp-cloud-computing-serverless/issues)**. Assim que possível, estarei respondendo as todas as dúvidas que tiverem!
 
 **(documentação em desenvolvimento)**
